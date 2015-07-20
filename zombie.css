@@ -1,0 +1,15 @@
+
+
+html, body {
+  height: 547px;
+  width: 225px;
+  padding: 0;
+  margin: auto ;
+  background: black url("https://cicisrant.files.wordpress.com/2015/06/zombie_apocalypse.jpg?w=1038") center  no-repeat;;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
